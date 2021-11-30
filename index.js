@@ -80,7 +80,7 @@ const person = {
   }
   sum();
 // 6uzduotis
-push unshift
+// push unshift
   a = [1,2,3,4,5];
   //pradzia
   a.unshift(0);
